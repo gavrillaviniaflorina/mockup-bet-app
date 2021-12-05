@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+main {
+    height: 600px;
+    width: 600px;
+    margin: auto;
+    border: 5px solid black;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url("img/observerbd.com_1631810420.jpg");
+    background-size: cover;
+}
+
+.joaca {
+    width: 50%;
+    border-radius: 30px;
+    height: 100px;
+}
